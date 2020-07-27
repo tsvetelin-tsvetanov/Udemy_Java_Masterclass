@@ -1,16 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8dc35b-310a-4cca-8768-8449c60c4cad" name="Default Changelist" comment="" />
+    <list default="true" id="5c8dc35b-310a-4cca-8768-8449c60c4cad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/DeluxeBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lecture-50-challenge.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1fHP8Fe2a3TeKGIqaXuLwoxCX0g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tsvetelin\IdeaProjects\Udemy_Java_Masterclass\OOPTest\src\com\company" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -23,6 +64,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,5 +82,58 @@
       <updated>1595871883530</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1335" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1595874857221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1335" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595874857221" />
+    <state width="734" height="347" key="GridCell.Tab.0.bottom" timestamp="1595875102859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="734" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595875102859" />
+    <state width="734" height="347" key="GridCell.Tab.0.center" timestamp="1595875102859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="734" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595875102859" />
+    <state width="734" height="347" key="GridCell.Tab.0.left" timestamp="1595875102859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="734" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595875102859" />
+    <state width="734" height="347" key="GridCell.Tab.0.right" timestamp="1595875102859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="734" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595875102859" />
+    <state width="734" height="347" key="GridCell.Tab.1.bottom" timestamp="1595875102860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="734" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595875102860" />
+    <state width="734" height="347" key="GridCell.Tab.1.center" timestamp="1595875102860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="734" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595875102860" />
+    <state width="734" height="347" key="GridCell.Tab.1.left" timestamp="1595875102859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="734" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595875102859" />
+    <state width="734" height="347" key="GridCell.Tab.1.right" timestamp="1595875102860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="734" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595875102860" />
+    <state x="1186" y="244" width="672" height="677" key="run.anything.popup" timestamp="1595874107273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1186" y="244" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595874107273" />
   </component>
 </project>
