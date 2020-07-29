@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8dc35b-310a-4cca-8768-8449c60c4cad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HealthyBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lecture-50-challenge.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="5c8dc35b-310a-4cca-8768-8449c60c4cad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +86,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1335" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1595874857221">
@@ -131,6 +125,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="734" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595875102860" />
+    <state x="685" y="140" key="new project wizard" timestamp="1596039855670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1596039855670" />
     <state x="1186" y="244" width="672" height="677" key="run.anything.popup" timestamp="1595874107273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
