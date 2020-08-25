@@ -20,7 +20,7 @@ public class Main {
     // As an optional extra, provide an option to remove the current song from the playlist
     // (hint: listiterator.remove()
 
-    private static ArrayList<Album> albums = new ArrayList<>();
+    private static List<Album> albums = new ArrayList<>();
 
     public static void main(String[] args) {
         Album album = new Album("Stormbringer", "Deep Purple");
@@ -47,7 +47,7 @@ public class Main {
         album.addSong("Night of the long knives", 5.12);
         albums.add(album);
 
-        LinkedList<Song> playList = new LinkedList<>();
+        List<Song> playList = new ArrayList<Song>();
         albums.get(0).addToPlaylist("You can't do it right", playList);
         albums.get(0).addToPlaylist("Holy man", playList);
         albums.get(0).addToPlaylist("Speed king", playList); // does not work
@@ -61,7 +61,7 @@ public class Main {
 
     }
 
-    private static void play(LinkedList<Song> playList){
+    private static void play(List<Song> playList){
         Scanner scanner = new Scanner(System.in);
         boolean quit = false;
         boolean forward = true;
@@ -164,7 +164,7 @@ public class Main {
                 "6 - delete current song from playlist");
     }
 
-    private static void printList(LinkedList<Song> playlist){
+    private static void printList(List<Song> playlist){
         Iterator<Song> iterator = playlist.iterator();
         System.out.println("=================================");
         while (iterator.hasNext()){
